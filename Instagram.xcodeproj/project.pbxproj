@@ -138,7 +138,6 @@
 				6E8620012509A8BC00959612 /* Resources */,
 				6E8620002509A8AE00959612 /* Models */,
 				6E861FFF2509A8A100959612 /* Views */,
-				6E23CA362512F86C000564A3 /* NoNotificationsView.swift */,
 				6E861FFE2509A88800959612 /* Controllers */,
 				6E861FF82509A82900959612 /* Info.plist */,
 			);
@@ -157,6 +156,7 @@
 		6E861FFF2509A8A100959612 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				6E23CA362512F86C000564A3 /* NoNotificationsView.swift */,
 				6E942E1D2510B23100E65135 /* CollectionView Headers */,
 				6E942E102510523900E65135 /* Cells */,
 				6E861FF32509A82900959612 /* Assets.xcassets */,
